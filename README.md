@@ -51,43 +51,37 @@ Follow these steps to effectively utilize the Iranian License Plate Detection an
 
 1. **Training the Models:**
 
-    - Use the provided scripts or notebooks to train the license plate detection and recognition models.
-    - Ensure you have annotated datasets for training the models, and adjust hyperparameters and network architectures as needed.
+    - will be complete soon.
+    
 
 2. **Evaluation:**
 
-    - Utilize the evaluation scripts to assess the performance of the detection and recognition models on test datasets.
-    - Measure metrics such as precision, recall, and F1-score to evaluate the model's performance.
+    - will be complete soon.
+    
 
 3. **Inference:**
 
-    - Run inference scripts to detect and recognize license plates in new images or video streams.
-    - Evaluate the accuracy and speed of the models in real-world scenarios.
-
+    - will be complete soon.
 4. **Integration:**
 
-    - Integrate the trained models into applications or systems requiring automatic license plate detection and recognition functionalities.
-    - Ensure proper documentation and API endpoints for seamless integration.
+    - will be complete soon.
 
 5. **Customization:**
 
-    - Customize the models, algorithms, and parameters to adapt the project to specific use cases or environments.
-    - Experiment with different architectures, preprocessing techniques, and optimization strategies to improve performance.
+    - will be complete soon.
+    
 
 6. **Contributing:**
 
-    - Contributions to the project are welcome! Feel free to submit pull requests, report issues, or suggest improvements.
-    - Follow the contribution guidelines outlined in the repository to ensure smooth collaboration.
+    - will be complete soon.
+    
 
 7. **Support:**
 
-    - If you encounter any issues or have questions about the project, refer to the documentation or open an issue on GitHub for assistance.
-    - Join the community forums or discussion groups to engage with other users and contributors.
 
 8. **Acknowledgments:**
 
-    - Acknowledge the contributions of researchers, developers, and organizations whose work has influenced or supported the project.
-    - Provide credits and citations where appropriate to honor the efforts of the community.
+ 
 
 
 
