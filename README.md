@@ -11,37 +11,38 @@ Data Augmentation Utilities: Includes utilities for data augmentation to improve
 ## Directory Structure
 
 Here is the directory structure of the project:
-iranian-license-plate-recognition/
-iranian-license-plate-recognition/
-│
-├── data/ # Directory for datasets and data-related files
-│ ├── annotations/ # Annotations for license plate images
-│ ├── images/ # Raw images containing license plates
-│ └── preprocessed/ # Preprocessed images and data
-│
-├── models/ # Directory for storing trained models
-│ ├── detection/ # Trained models for license plate detection
-│ └── recognition/ # Trained models for license plate recognition
-│
-├── src/ # Source code directory
-│ ├── detection/ # Code for license plate detection
-│ ├── recognition/ # Code for license plate recognition
-│ ├── evaluation/ # Evaluation scripts and metrics
-│ ├── utils/ # Utility functions and helper scripts
-│ └── config/ # Configuration files for models and training
-│
-├── notebooks/ # Jupyter notebooks for experimentation and visualization
-│
-├── tests/ # Directory for testing scripts and test datasets
-│
-├── docs/ # Documentation directory
-│ └── README.md # Project README file
-│
-├── LICENSE # Project license file
-├── requirements.txt # File containing project dependencies
-└── README.md # Project README file
+## Directory Structure
 
-
+```
+iranian-license-plate-recognition/
+│
+├── data/                      # Directory for datasets and data-related files
+│   ├── annotations/           # Annotations for license plate images
+│   ├── images/                # Raw images containing license plates
+│   └── preprocessed/          # Preprocessed images and data
+│
+├── models/                    # Directory for storing trained models
+│   ├── detection/             # Trained models for license plate detection
+│   └── recognition/           # Trained models for license plate recognition
+│
+├── src/                       # Source code directory
+│   ├── detection/             # Code for license plate detection
+│   ├── recognition/           # Code for license plate recognition
+│   ├── evaluation/            # Evaluation scripts and metrics
+│   ├── utils/                 # Utility functions and helper scripts
+│   └── config/                # Configuration files for models and training
+│
+├── notebooks/                 # Jupyter notebooks for experimentation and visualization
+│
+├── tests/                     # Directory for testing scripts and test datasets
+│
+├── docs/                      # Documentation directory
+│   └── README.md              # Project README file
+│
+├── LICENSE                    # Project license file
+├── requirements.txt           # File containing project dependencies
+└── README.md                  # Project README file
+```
 
 ## Installation
 
