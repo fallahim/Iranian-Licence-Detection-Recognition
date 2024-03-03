@@ -7,6 +7,42 @@ License Plate Recognition: Implements algorithms for recognizing and extracting 
 Pre-trained Models: Includes pre-trained models for license plate detection and recognition, allowing for easy integration and testing.
 Evaluation Metrics: Provides evaluation scripts and metrics to assess the performance of the detection and recognition algorithms.
 Data Augmentation Utilities: Includes utilities for data augmentation to improve the robustness and generalization of the models.
+
+## Directory Structure
+
+Here is the directory structure of the project:
+iranian-license-plate-recognition/
+│
+├── data/                      # Directory for datasets and data-related files
+│   ├── annotations/           # Annotations for license plate images
+│   ├── images/                # Raw images containing license plates
+│   └── preprocessed/          # Preprocessed images and data
+│
+├── models/                    # Directory for storing trained models
+│   ├── detection/             # Trained models for license plate detection
+│   └── recognition/           # Trained models for license plate recognition
+│
+├── src/                       # Source code directory
+│   ├── detection/             # Code for license plate detection
+│   ├── recognition/           # Code for license plate recognition
+│   ├── evaluation/            # Evaluation scripts and metrics
+│   ├── utils/                 # Utility functions and helper scripts
+│   └── config/                # Configuration files for models and training
+│
+├── notebooks/                 # Jupyter notebooks for experimentation and visualization
+│
+├── tests/                     # Directory for testing scripts and test datasets
+│
+├── docs/                      # Documentation directory
+│   └── README.md              # Project README file
+│
+├── LICENSE                    # Project license file
+├── requirements.txt           # File containing project dependencies
+└── README.md                  # Project README file
+
+
+
+
 ## Installation
 
 Follow these steps to set up and install the project on your local machine:
@@ -44,6 +80,9 @@ Follow these steps to set up and install the project on your local machine:
 7. **Ready to Go:**
 
     Your installation is complete! You're now ready to use the project for license plate detection and recognition.
+
+
+
 
    ## Usage
 
