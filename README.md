@@ -66,15 +66,15 @@ Follow these steps to set up and install the project on your local machine:
     pip install -r requirements.txt
     ```
 
-4. **Download Pre-Trained Models (if applicable):**
+4. **Download Pre-Trained Models:**
 
     If pre-trained models are provided separately, download them and place them in the appropriate directories within the project structure.
 
-5. **Configure Environment (if necessary):**
+5. **Configure Environment:**
 
     Set up any environment variables or configurations required by the project. Refer to documentation or configuration files for guidance.
 
-6. **Run Tests (Optional):**
+6. **Run Tests:**
 
     Before using the project, consider running any provided tests to ensure everything is working as expected.
 
